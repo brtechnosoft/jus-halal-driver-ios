@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  FoodAppDelivery
+
+  Created by Pyramidions on 11/02/19.
+  Copyright © 2019 Pyramidions. All rights reserved.
+*/
+
+
+//Connectivity
+
+"Check Internet Connection" = "Check Internet Connection";
+"Ride" = "Ride";
+"Orders" = "Orders";
+"Account" = "Account";
+
+//Ride VC
+"Start trip to get delivery orders" = "Start trip to get delivery orders";
+"Start Trip" = "Start Trip";
+"Stop Trip" = "Stop Trip";
+"START" = "START";
+"STOP" = "STOP";
+"Accept" = "Accept";
+"Reject" = "Reject";
+"PickUp Order" = "PickUp Order";
+"Deliver Order" = "Deliver Order";
+"RESTAURANT" = "RESTAURANT";
+"CUSTOMER" = "CUSTOMER";
+"NAVIGATE" = "NAVIGATE";
+"Delivered" = "Delivered";
+"Order Number" = "Order Number";
+"BILL DETAILS" = "BILL DETAILS";
+"SIGNUP" = "SIGNUP";
+"CONTINUE" = "CONTINUE";
