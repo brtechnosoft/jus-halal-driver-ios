@@ -11,7 +11,7 @@ import UIKit
 
 struct APIList
 {
-    let BASE_URL = "http://18.223.123.152/foodapp/public/api/"
+    let BASE_URL = "http://52.14.69.87/foodapp/public/deliveryBoy/"
     
     func getUrlString(url: urlString) -> String
     {
